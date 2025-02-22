@@ -10,16 +10,19 @@ Kode program ini merupakan gabungan dari beberapa fitur berbasis Computer Vision
 
 Fitur Utama:
 A. Face Detection:
-    1. Menggunakan model Haar Cascade untuk mendeteksi wajah secara real-time dari video streaming kamera.
-    2. Menampilkan kotak di sekitar wajah yang terdeteksi.
+1. Menggunakan model Haar Cascade untuk mendeteksi wajah secara real-time dari video streaming kamera.
+2. Menampilkan kotak di sekitar wajah yang terdeteksi.
+   
 B. Hand Gesture Recognition:
-    1. Mendeteksi tangan dan melacak posisi jari menggunakan MediaPipe.
-    2. Menghitung jumlah jari yang terbuka dan menampilkan hasilnya secara visual.
+1. Mendeteksi tangan dan melacak posisi jari menggunakan MediaPipe.
+2. Menghitung jumlah jari yang terbuka dan menampilkan hasilnya secara visual.
+   
 C. Volume Control dengan Gesture:
-    1. Menggunakan deteksi tangan untuk mengatur volume sistem berdasarkan jarak antara jempol dan telunjuk.
-    2. Volume berkurang jika jari didekatkan dan meningkat jika dijauhkan.
+1. Menggunakan deteksi tangan untuk mengatur volume sistem berdasarkan jarak antara jempol dan telunjuk.
+2. Volume berkurang jika jari didekatkan dan meningkat jika dijauhkan.
+   
 D. Penggabungan Face Detection dan Hand Gesture:
-    1. Program dapat mendeteksi wajah dan mengenali gerakan tangan dalam satu tampilan.
+1. Program dapat mendeteksi wajah dan mengenali gerakan tangan dalam satu tampilan.
 
 Teknologi yang Digunakan:
 a. Python 3
