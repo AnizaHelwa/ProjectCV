@@ -25,12 +25,13 @@ D. Penggabungan Face Detection dan Hand Gesture:
 1. Program dapat mendeteksi wajah dan mengenali gerakan tangan dalam satu tampilan.
 
 Teknologi yang Digunakan:
-a. Python 3
-b. OpenCV
-c. MediaPipe
-d. Pycaw (Python Core Audio Windows) – untuk mengontrol volume sistem
-e. NumPy
-f. Math (untuk perhitungan jarak antara jari)
+
+1. Python 3
+2. OpenCV
+3. MediaPipe
+4. Pycaw (Python Core Audio Windows) – untuk mengontrol volume sistem
+5. NumPy
+6. Math (untuk perhitungan jarak antara jari)
 
 Resource: 
 1. https://youtu.be/01sAkU_NvOY?si=hKgLymp8DYleXlLp
