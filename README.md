@@ -33,6 +33,8 @@ Teknologi yang Digunakan:
 5. NumPy
 6. Math (untuk perhitungan jarak antara jari)
 
+Dokumentasi: https://drive.google.com/drive/folders/1_zV1ody52_Wc-Z6kPNExwwQdvBcnxDD3?usp=drive_link
+
 Resource: 
 1. https://youtu.be/01sAkU_NvOY?si=hKgLymp8DYleXlLp
 2. https://youtu.be/51XVxq8Rhv4?si=VGa_A4hRabMF7lm8
